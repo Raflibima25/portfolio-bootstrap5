@@ -1,0 +1,40 @@
+section {
+    padding-top: 5rem;
+}
+
+.jumbotron {
+    padding-top: 3rem;
+    background-color: #e2edff;
+}
+
+.about {
+    margin-top: -50px;
+}
+
+.about hr {
+    margin-top: -3px;
+    margin-bottom: 30px;
+    border-bottom: 3px solid rgb(24, 117, 179);
+}
+
+.project {
+    background-color: #e2edff;
+}
+
+.project hr {
+    margin-top: -3px;
+    border-bottom: 3px solid rgb(24, 117, 179);
+}
+
+.project .card {
+    margin-top: 20px;
+}
+
+.contact {
+    margin-top: -50px;
+}
+
+.contact hr {
+    margin-top: -3px;
+    border-bottom: 3px solid rgb(24, 117, 179);
+}
